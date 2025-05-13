@@ -53,8 +53,8 @@ TruthScan is an open-source OSINT (Open Source Intelligence) tool designed to ve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/truthscan.git
-   cd truthscan
+   git clone https://github.com/netsec-gg/TruthScan.git
+   cd TruthScan
    ```
 
 2. Create a virtual environment:
